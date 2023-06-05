@@ -1,0 +1,53 @@
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.exe
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.deps.json
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.runtimeconfig.json
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.runtimeconfig.dev.json
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\ref\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.pdb
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer_MarkupCompile.cache
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer_MarkupCompile.lref
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.g.resources
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.AssemblyInfo.cs
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.csproj.CopyComplete
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\ref\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.pdb
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.genruntimeconfig.cache
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\OxyPlot.dll
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\OxyPlot.Wpf.dll
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\bin\Debug\net5.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\david\source\repos\RandomPlotVisualizer\RandomPlotVisualizer\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.exe
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.deps.json
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.runtimeconfig.json
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.runtimeconfig.dev.json
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\ref\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\RandomPlotVisualizer.pdb
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\ScottPlot.dll
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\bin\Debug\net5.0-windows\ScottPlot.WPF.dll
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer_MarkupCompile.cache
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer_MarkupCompile.lref
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.g.resources
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.AssemblyInfo.cs
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.csproj.CopyComplete
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\ref\RandomPlotVisualizer.dll
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.pdb
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.genruntimeconfig.cache
+C:\Users\david\source\repos\RandomPlotVisualizer - ScottPlot\RandomPlotVisualizer\obj\Debug\net5.0-windows\RandomPlotVisualizer.csproj.AssemblyReference.cache
